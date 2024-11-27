@@ -1,11 +1,16 @@
-# Merhaba! 👋 Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb) 
+# Merhaba! 👋 Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb)
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum.
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
-- **PHP** (Back-end geliştirme)
-- **HTML5** (Web tasarımı ve frontend geliştirme)
-- **JavaScript** (Dinamik web sayfaları ve etkileşimli uygulamalar)
+- **PHP** (Back-end geliştirme)  
+  ![PHP Gif](https://media.giphy.com/media/l2SqdYNsXmmWy98gI/giphy.gif)
+  
+- **HTML5** (Web tasarımı ve frontend geliştirme)  
+  ![HTML Gif](https://media.giphy.com/media/xT9IgDEI1iE8VXY0Wk/giphy.gif)
+  
+- **JavaScript** (Dinamik web sayfaları ve etkileşimli uygulamalar)  
+  ![JavaScript Gif](https://media.giphy.com/media/l0HlVQ8pMMcmKr7Ta/giphy.gif)
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
 - Web geliştirme ve dinamik uygulama yapıları.
@@ -17,8 +22,10 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ## 🌐 İletişim ve Bağlantılar
 - **LinkedIn**: [Mehmet Berkay Merkepcioğlu](https://www.linkedin.com/in/mehmet-berkay-merkepcioğlu-2b7387328)
 - **GitHub**: [berkwyweb](https://github.com/berkwyweb)
--**Instagram**:[34brkay](https://www.instagram.com/34brkay/)
+- **Instagram**: [34brkay](https://www.instagram.com/34brkay/)
+
 ---
+
 ## 📈 GitHub İstatistiklerim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&show_icons=true&hide_title=true)
@@ -26,15 +33,13 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ---
 
 ## 🚀 Hedeflerim
-- [ ] 2024 yılına kadar 50+ proje tamamlamak
+- [ ] 2026 yılına kadar 50+ proje tamamlamak
 - [ ] PHP ile kapsamlı bir back-end uygulaması geliştirmek
 - [ ] JavaScript ile modern bir web uygulaması yapmayı başarmak
 - [ ] Açık kaynak projelere katkı sağlamak
 
 ## 🎨 Öne Çıkan Projeler
 - [PHP Web Uygulaması](https://github.com/berkwyweb/giris-basarili) - Bu PHP kodu, kullanıcı adı ve şifre doğrulama işlemi gerçekleştirir. Eğer doğru kullanıcı adı ve şifre girilirse, kullanıcı başarı sayfasına yönlendirilir. Yanlış giriş durumunda ise hata mesajı gösterilir. Ayrıca, sayfa estetik açıdan havadan düşen yıldızlar ve animasyonlu arka plan gibi görsel öğelerle zenginleştirilmiştir.
-
-
 
 ---
 
@@ -49,4 +54,3 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ## 👨‍💻 GitHub Takipçi İstatistiklerim
 
 ![Followers](https://img.shields.io/github/followers/berkwyweb?label=Followers&style=social)
-
