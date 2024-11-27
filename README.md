@@ -4,13 +4,13 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 - **PHP** (Back-end geliştirme)  
-  ![PHP Gif](https://media.giphy.com/media/l2SqdYNsXmmWy98gI/giphy.gif)
+  ![PHP Gif](https://media.tenor.com/ZrMJrzJgJl0AAAAC/php.gif)
   
 - **HTML5** (Web tasarımı ve frontend geliştirme)  
-  ![HTML Gif](https://media.giphy.com/media/xT9IgDEI1iE8VXY0Wk/giphy.gif)
+  ![HTML5 Gif](https://media.tenor.com/TffnWaWe4LQAAAAC/html5-web.gif)
   
 - **JavaScript** (Dinamik web sayfaları ve etkileşimli uygulamalar)  
-  ![JavaScript Gif](https://media.giphy.com/media/l0HlVQ8pMMcmKr7Ta/giphy.gif)
+  ![JavaScript Gif](https://media.tenor.com/OUwnRZ9YqgkAAAAC/javascript-programming.gif)
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
 - Web geliştirme ve dinamik uygulama yapıları.
@@ -33,7 +33,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ---
 
 ## 🚀 Hedeflerim
-- [ ] 2026 yılına kadar 50+ proje tamamlamak
+- [ ] 2024 yılına kadar 50+ proje tamamlamak
 - [ ] PHP ile kapsamlı bir back-end uygulaması geliştirmek
 - [ ] JavaScript ile modern bir web uygulaması yapmayı başarmak
 - [ ] Açık kaynak projelere katkı sağlamak
