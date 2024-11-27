@@ -4,13 +4,13 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 - **PHP** (Back-end geliştirme)  
-  ![PHP Gif](https://media.tenor.com/ZrMJrzJgJl0AAAAC/php.gif)
+  ![PHP Gif](https://media1.tenor.com/m/ihRrSlteNXIAAAAd/php-my-beloved.gif)
   
 - **HTML5** (Web tasarımı ve frontend geliştirme)  
-  ![HTML5 Gif](https://media.tenor.com/TffnWaWe4LQAAAAC/html5-web.gif)
+  ![HTML5 Gif](https://media1.tenor.com/m/XZmkTB1ShDcAAAAd/html-peter.gif)
   
 - **JavaScript** (Dinamik web sayfaları ve etkileşimli uygulamalar)  
-  ![JavaScript Gif](https://media.tenor.com/OUwnRZ9YqgkAAAAC/javascript-programming.gif)
+  ![JavaScript Gif](https://media1.tenor.com/m/557GUrcXp14AAAAd/jinx-cat-javascript.gif)
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
 - Web geliştirme ve dinamik uygulama yapıları.
