@@ -36,7 +36,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ---
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
 
 ## 🌐 İletişim ve Bağlantılar
 
@@ -49,7 +48,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
 
-
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
 
 ---
