@@ -36,8 +36,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - **LinkedIn**: [Mehmet Berkay Merkepcioğlu](https://www.linkedin.com/in/mehmet-berkay-merkepcioğlu-2b7387328)  
 - **GitHub**: [berkwyweb](https://github.com/berkwyweb)  
 - ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
-![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)
-[Instagram Profilim](https://www.instagram.com/34brkay/)
 
 ---
 
