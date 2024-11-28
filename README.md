@@ -6,20 +6,7 @@
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
 ## 👥 GitHub Takip Et
-<style>
-
-img:hover {
-
-transform: scale(1.1);
-
-transition: transform 0.3s;
-
-}
-
-</style>
-
-<img src="https://avatars.githubusercontent.com/u/berkwyweb" alt="Profile Picture" width="150px">
-![Son dinlediklerim](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
 
 ![GitHub Follow](https://img.shields.io/github/followers/berkwyweb?style=social)
 <a href="https://www.github.com/berkwyweb" target="_blank" rel="noreferrer"><img
