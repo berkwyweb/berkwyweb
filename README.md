@@ -48,7 +48,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
+https://img.shields.io/static/v1?message=berkwyweb&color=b5bd36&label=&logo=html5&style=plastic
 ---
 
 ## 👨‍💻 GitHub Takipçi İstatistiklerim
