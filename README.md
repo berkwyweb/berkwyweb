@@ -2,7 +2,7 @@
 ![Banner](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
                         [![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
 
-# Merhaba!     ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb)
+# Merhaba!     ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Ben ** Berkay Merkepcioğlu** (berkwyweb)
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
 ## 👥 GitHub Takip Et
