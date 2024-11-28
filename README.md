@@ -4,30 +4,27 @@
 [![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
 
-#     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
-
-
+# Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Ben Berkay Merkepcioğlu (berkwyweb)
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
+
 ## 👥 GitHub Takip Et
 ![GitHub Follow](https://img.shields.io/github/followers/berkwyweb?style=social)
-<a href="https://www.github.com/berkwyweb" target="_blank" rel="noreferrer"><img
-    src="https://img.shields.io/github/followers/berkwyweb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/painboiberk" target="_blank" rel="noreferrer"><img
-    src="https://img.shields.io/twitter/follow/painboiberk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-  /></a><a href="https://www.twitch.tv/berkwy01" target="_blank" rel="noreferrer"><img
-    src="https://img.shields.io/twitch/status/berkwy01?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/berkwyweb" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/berkwyweb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/painboiberk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/painboiberk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/berkwy01" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/berkwy01?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 ---
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 
 - **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.  
-[![Bildiklerim](https://skillicons.dev/icons?i=php)](https://instagram.com/34brkay)
+[![PHP](https://skillicons.dev/icons?i=php)](https://instagram.com/34brkay)
 
 - **HTML5**: Web tasarımı ve frontend geliştirme için temel yapı taşlarından biri, modern web sayfalarının temelini oluşturur.  
-[![Bildiklerim](https://skillicons.dev/icons?i=html)](https://instagram.com/34brkay)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://instagram.com/34brkay)
 
 - **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.  
-[![Java](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
 ---
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
@@ -49,8 +46,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
 
-
-
 ---
 
 ## 📈 GitHub İstatistiklerim
@@ -63,11 +58,13 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 <a href="http://www.github.com/berkwyweb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/berkwyweb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkwyweb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<b>Top Repositories</b>
+
+**Top Repositories**
 
 <div width="100%" align="center"><a href="https://github.com/berkwyweb/giris-basarili" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berkwyweb&repo=giris-basarili&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/berkwyweb/snake-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berkwyweb&repo=snake-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ---
+
 ## ⭐ Toplam Yıldız Sayısı
 
 ![Total Stars](https://img.shields.io/github/stars/berkwyweb?style=social)
@@ -77,8 +74,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=dark)
 
 ---
-
-
 
 ## 📅 Son Commit Tarihi
 
@@ -112,38 +107,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ## 📊 Dil Kullanım Oranı
 
-![HTML5 Usage](https://img.shields.io/github/languages/top/berkwyweb/berkwyweb?style=flat-square&logo=html5)
-![PHP Usage](https://img.shields.io/github/languages/top/berkwyweb/berkwyweb?style=flat-square&logo=php)
-![JavaScript Usage](https://img.shields.io/github/languages/top/berkwyweb/berkwyweb?style=flat-square&logo=javascript)
+![HTML5 Usage](https://img.shields.io/github/languages/top/berkwyweb/berkwyweb?style=flat-square&logo=github)
 
 ---
 
-## 💖 GitHub Sponsors
-
-![GitHub Sponsors](https://img.shields.io/github/sponsors/berkwyweb?style=social)
-
-## 📈 GitHub Takipçi İstatistikleri
-
-![Followers](https://img.shields.io/github/followers/berkwyweb?label=Followers&style=social)
-
----
-
-
-## 📍 GitHub Repo Etiketleri
-
-![Tags](https://img.shields.io/github/v/tag/berkwyweb/berkwyweb?style=flat-square&logo=github)
-
----
-
-## 📢 GitHub Pages Sayfa Görüntülenme
-
-![Page Views](https://img.shields.io/website?url=https%3A%2F%2Fyour-website-url.github.io%2F)
-
----
-
-
-
-
-## 🎯 GitHub Commit İstatistikleri (Verimlilik)
-
-![Commit Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
