@@ -1,7 +1,7 @@
-![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
 # Merhaba! 👋 Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb)
 
-Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü discord bot komutları için yardım edebilirim, iletişim icin hakkimda kısmından ulaşabilirsiniz.
+Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
+
 ## 👥 GitHub Takip Et
 
 ![GitHub Follow](https://img.shields.io/github/followers/berkwyweb?style=social)
@@ -10,18 +10,19 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 
-- **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.
+- **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.  
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="30"/>
 
-- **HTML5**: Web tasarımı ve frontend geliştirme için temel yapı taşlarından biri, modern web sayfalarının temelini oluşturur.
+- **HTML5**: Web tasarımı ve frontend geliştirme için temel yapı taşlarından biri, modern web sayfalarının temelini oluşturur.  
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30"/>
 
-- **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.
+- **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.  
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/>
 
 ---
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
+
 - Web geliştirme ve dinamik uygulama yapıları.
 - **Veritabanı yönetimi** ve **Backend** geliştirme.
 - **Responsive web design** ve **UX/UI** geliştirme.
@@ -29,8 +30,9 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ---
 
 ## 🌐 İletişim ve Bağlantılar
-- **LinkedIn**: [Mehmet Berkay Merkepcioğlu](https://www.linkedin.com/in/mehmet-berkay-merkepcioğlu-2b7387328)
-- **GitHub**: [berkwyweb](https://github.com/berkwyweb)
+
+- **LinkedIn**: [Mehmet Berkay Merkepcioğlu](https://www.linkedin.com/in/mehmet-berkay-merkepcioğlu-2b7387328)  
+- **GitHub**: [berkwyweb](https://github.com/berkwyweb)  
 - **Instagram**: [34brkay](https://www.instagram.com/34brkay/)
 
 ---
@@ -40,16 +42,17 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&show_icons=true&hide_title=true)
 
 ---
+
 ## ⭐ Toplam Yıldız Sayısı
 
 ![Total Stars](https://img.shields.io/github/stars/berkwyweb?style=social)
-
 
 ## 🏆 GitHub Contribution Graph
 
 ![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=dark)
 
 ---
+
 ## 🏆 GitHub Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=dark&hide_border=true)
@@ -92,18 +95,15 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ![Forks](https://img.shields.io/github/forks/berkwyweb/berkwyweb?style=flat-square&logo=github)
 
-
 ## 🔗 GitHub Gists Sayısı
 
 ![Gists](https://img.shields.io/github/gists/berkwyweb?style=flat-square)
-
 
 ---
 
 ## 🌍 GitHub Pages Trafiği
 
 ![Page Views](https://img.shields.io/website?url=https%3A%2F%2Fyour-website-url.github.io%2F)
-
 
 ## 📊 Dil Kullanım Oranı
 
@@ -112,10 +112,10 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ![JavaScript Usage](https://img.shields.io/github/languages/top/berkwyweb/berkwyweb?style=flat-square&logo=javascript)
 
 ---
+
 ## 💖 GitHub Sponsors
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/berkwyweb?style=social)
-
 
 ## 📈 GitHub Takipçi İstatistikleri
 
