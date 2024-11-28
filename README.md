@@ -85,17 +85,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ---
 
-## 📝 Açık Issues
 
-![Open Issues](https://img.shields.io/github/issues/berkwyweb/berkwyweb?style=flat-square&logo=github)
-
-## 🔄 Açık Pull Requests
-
-![Open PRs](https://img.shields.io/github/issues-pr/berkwyweb/berkwyweb?style=flat-square&logo=github)
-
-## ✅ Kapanan Pull Requests
-
-![Closed PRs](https://img.shields.io/github/issues-pr-closed/berkwyweb/berkwyweb?style=flat-square&logo=github)
 
 ---
 
