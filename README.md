@@ -39,7 +39,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![GitHub](https://img.shields.io/badge/GitHub-berkwyweb-lightgrey?style=social&logo=github)
     [![Github](https://skillicons.dev/icons?i=github)](https://github.com/berkwyweb/)
 
- ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
+- ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
 
 
