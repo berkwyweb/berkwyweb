@@ -11,7 +11,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 <a href="https://www.github.com/berkwyweb" target="_blank" rel="noreferrer"><img
     src="https://img.shields.io/github/followers/berkwyweb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/painboiberk" target="_blank" rel="noreferrer"><img
     src="https://img.shields.io/twitter/follow/painboiberk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                                                                                                                                                                                                                src="https://img.shields.io/instagram/follow/34brkay?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917"
 
   /></a><a href="https://www.twitch.tv/berkwy01" target="_blank" rel="noreferrer"><img
     src="https://img.shields.io/twitch/status/berkwy01?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
