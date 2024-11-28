@@ -3,7 +3,6 @@
 # Merhaba! 👋 Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb)
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
-![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
 
 ## 👥 GitHub Takip Et
 
@@ -36,7 +35,9 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 - **LinkedIn**: [Mehmet Berkay Merkepcioğlu](https://www.linkedin.com/in/mehmet-berkay-merkepcioğlu-2b7387328)  
 - **GitHub**: [berkwyweb](https://github.com/berkwyweb)  
-- **Instagram**: [34brkay](https://www.instagram.com/34brkay/)
+- ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
+![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)
+[Instagram Profilim](https://www.instagram.com/34brkay/)
 
 ---
 
