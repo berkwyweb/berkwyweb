@@ -48,6 +48,8 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
 
+http://github-profile-summary-cards.vercel.app/api/cards/stats?berkwyweb={berkwyweb}&theme={2077}
+
 
 
 ---
@@ -62,6 +64,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 <a href="http://www.github.com/berkwyweb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/berkwyweb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkwyweb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/berkwyweb/giris-basarili" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berkwyweb&repo=giris-basarili&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/berkwyweb/snake-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berkwyweb&repo=snake-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
