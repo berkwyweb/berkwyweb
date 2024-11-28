@@ -67,7 +67,6 @@ Açık kaynak projelerime katkıda bulunmak veya desteklemek isterseniz, GitHub 
 
 - **Yıldızlar (Stars):** ![Stars](https://img.shields.io/github/stars/berkwyweb?style=flat-square&logo=github)
 - **Takipçiler (Followers):** ![Followers](https://img.shields.io/github/followers/berkwyweb?style=flat-square&logo=github)
-- **Takip Edilen (Following):** ![Following](https://img.shields.io/github/following/berkwyweb?style=flat-square&logo=github)
 
 ---
 
