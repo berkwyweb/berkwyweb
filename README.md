@@ -145,4 +145,4 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 </a>
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/terminal.gif)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1038114717002125434?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1038114717002125434)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1038114717002125434?idleMessage=Her%20t%C3%BCrl%C3%BC%20discord%20komutlar%C4%B1%20i%C3%A7in%20yazabilirsiniz!&theme=dark)](https://discord.com/users/1038114717002125434)
