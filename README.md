@@ -4,7 +4,7 @@
 
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
 
-
+[test[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]test]
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
 ## 👥 GitHub Takip Et
@@ -48,7 +48,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
 
-https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
 
 ---
 
