@@ -3,6 +3,8 @@
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü discord bot komutları için yardım edebilirim, iletişim icin hakkimda kısmından ulaşabilirsiniz.
 
+---
+
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 
 - **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.
@@ -13,6 +15,8 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 - **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/>
+
+---
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
 - Web geliştirme ve dinamik uygulama yapıları.
@@ -33,19 +37,69 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&show_icons=true&hide_title=true)
 
 ---
-## 🎮 İlgi Alanlarım
-- **Oyun Geliştirme**: Unity ile basit oyun projeleri geliştirme.
-- **Teknoloji İzleme**: Yeni teknolojileri takip etmek ve blog yazıları yazmak.
-- **E-spor**: Oyunlar ve takım yarışmaları.
 
+## 🏆 GitHub Commit İstatistikleri
 
-## 🚀 Hedeflerim
-- [ ] 2024 yılına kadar 50+ proje tamamlamak
-- [ ] PHP ile kapsamlı bir back-end uygulaması geliştirmek
-- [ ] JavaScript ile modern bir web uygulaması yapmayı başarmak
-- [ ] Açık kaynak projelere katkı sağlamak
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/berkwyweb/berkwyweb?style=flat-square)
 
-## 🎨 Öne Çıkan Projeler
+---
+
+## 📊 Proje Sayısı
+
+![Repos](https://img.shields.io/github/repos/berkwyweb?style=flat-square&logo=github)
+
+---
+
+## 📅 Son Commit Tarihi
+
+![Last Commit](https://img.shields.io/github/last-commit/berkwyweb/berkwyweb?style=flat-square)
+
+---
+
+## 🐛 Açık Issues (Hata)
+
+![Open Issues](https://img.shields.io/github/issues/berkwyweb/berkwyweb?style=flat-square&logo=github)
+
+---
+
+## 🔄 Açık Pull Requests
+
+![Open PRs](https://img.shields.io/github/issues-pr/berkwyweb/berkwyweb?style=flat-square&logo=github)
+
+---
+
+## 🎉 Merge Edilen Pull Requests
+
+![Merged PRs](https://img.shields.io/github/issues-pr-closed/berkwyweb/berkwyweb?style=flat-square)
+
+---
+
+## 🔗 GitHub Gists Sayısı
+
+![Gists](https://img.shields.io/github/gists/berkwyweb?style=flat-square)
+
+---
+
+## 📊 Dil Kullanım Oranı (HTML)
+
+![HTML Usage](https://img.shields.io/github/languages/top/berkwyweb/berkwyweb?style=flat-square&logo=html5)
+
+---
+
+## 📈 GitHub Takipçi İstatistikleri
+
+![Followers](https://img.shields.io/github/followers/berkwyweb?label=Followers&style=social)
+
+---
+
+## 🚀 GitHub Repo Aktivitesi
+
+![Repo Activity](https://img.shields.io/github/commit-activity/m/berkwyweb/repo-name?style=flat-square)
+
+---
+
+## 🔥 Projelerim
+
 - [PHP Web Uygulaması](https://github.com/berkwyweb/giris-basarili) - Bu PHP kodu, kullanıcı adı ve şifre doğrulama işlemi gerçekleştirir. Eğer doğru kullanıcı adı ve şifre girilirse, kullanıcı başarı sayfasına yönlendirilir. Yanlış giriş durumunda ise hata mesajı gösterilir. Ayrıca, sayfa estetik açıdan havadan düşen yıldızlar ve animasyonlu arka plan gibi görsel öğelerle zenginleştirilmiştir.
 
 ---
@@ -55,41 +109,33 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
- - ![berkwy](https://img.shields.io/static/v1?message=berkwyweb&color=b5bd36&label=&logo=html5&style=plastic)
 
 ---
 
-## 🧑‍💻 Destek Olun
-Açık kaynak projelerime katkıda bulunmak veya desteklemek isterseniz, GitHub Sponsor üzerinden bağış yapabilirsiniz:  
-[GitHub Sponsor](https://github.com/sponsors/berkwyweb)
+## 📅 GitHub Takip Edilen Sayısı
 
-## 📈 GitHub İstatistiklerim
-
-- **Yıldızlar (Stars):** ![Stars](https://img.shields.io/github/stars/berkwyweb?style=flat-square&logo=github)
-- **Takipçiler (Followers):** ![Followers](https://img.shields.io/github/followers/berkwyweb?style=flat-square&logo=github)
+![Following](https://img.shields.io/github/following/berkwyweb?label=Following&style=social)
 
 ---
 
-## 📝 GitHub Katkıları
+## 📍 GitHub Repo Etiketleri
 
-![Toplam Katkılar](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=dark)
-
----
-
-## 📊 GitHub Dil Dağılımı
-
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkwyweb&layout=compact&theme=dark)
+![Tags](https://img.shields.io/github/v/tag/berkwyweb/berkwyweb?style=flat-square&logo=github)
 
 ---
 
-## 👀 Profil Görüntülenme
+## 📢 GitHub Pages Sayfa Görüntülenme
 
-![Profile Views](https://komarev.com/ghpvc/?username=berkwyweb&label=Profile%20Views)
+![Page Views](https://img.shields.io/website?url=https%3A%2F%2Fyour-website-url.github.io%2F)
+
+---
+
+## 📈 GitHub Commit Sayısı
+
+![Total Commits](https://img.shields.io/github/commit-count/berkwyweb?style=flat-square)
 
 ---
 
-## 🚀 GitHub Aktivite Streaks
+## 🎯 GitHub Commit İstatistikleri (Verimlilik)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=radical)
-
----
+![Commit Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
