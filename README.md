@@ -4,14 +4,15 @@
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü discord bot komutları için yardım edebilirim, iletişim icin hakkimda kısmından ulaşabilirsiniz.
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
-- **PHP** (Back-end geliştirme)  
-  ![PHP Gif](https://media1.tenor.com/m/ihRrSlteNXIAAAAd/php-my-beloved.gif)
-  
-- **HTML5** (Web tasarımı ve frontend geliştirme)  
-  ![HTML5 Gif](https://media1.tenor.com/m/XZmkTB1ShDcAAAAd/html-peter.gif)
-  
-- **JavaScript** (Dinamik web sayfaları ve etkileşimli uygulamalar)  
-  ![JavaScript Gif](https://media1.tenor.com/m/557GUrcXp14AAAAd/jinx-cat-javascript.gif)
+
+- **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="30"/>
+
+- **HTML5**: Web tasarımı ve frontend geliştirme için temel yapı taşlarından biri, modern web sayfalarının temelini oluşturur.
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30"/>
+
+- **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/>
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
 - Web geliştirme ve dinamik uygulama yapıları.
