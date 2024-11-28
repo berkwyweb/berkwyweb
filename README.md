@@ -33,6 +33,11 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&show_icons=true&hide_title=true)
 
 ---
+## 🎮 İlgi Alanlarım
+- **Oyun Geliştirme**: Unity ile basit oyun projeleri geliştirme.
+- **Teknoloji İzleme**: Yeni teknolojileri takip etmek ve blog yazıları yazmak.
+- **E-spor**: Oyunlar ve takım yarışmaları.
+
 
 ## 🚀 Hedeflerim
 - [ ] 2024 yılına kadar 50+ proje tamamlamak
@@ -54,6 +59,51 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ---
 
-## 👨‍💻 GitHub Takipçi İstatistiklerim
+## 🧑‍💻 Destek Olun
+Açık kaynak projelerime katkıda bulunmak veya desteklemek isterseniz, GitHub Sponsor üzerinden bağış yapabilirsiniz:  
+[GitHub Sponsor](https://github.com/sponsors/berkwyweb)
 
-![Followers](https://img.shields.io/github/followers/berkwyweb?label=Followers&style=social)
+## 📈 GitHub İstatistiklerim
+
+- **Yıldızlar (Stars):** ![Stars](https://img.shields.io/github/stars/berkwyweb?style=social)
+- **Forklar (Forks):** ![Forks](https://img.shields.io/github/forks/berkwyweb?style=social)
+- **Takipçiler (Followers):** ![Followers](https://img.shields.io/github/followers/berkwyweb?style=social)
+- **Takip Edilen (Following):** ![Following](https://img.shields.io/github/following/berkwyweb?style=social)
+
+---
+
+## 📝 GitHub Katkıları
+
+![Toplam Katkılar](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=dark)
+
+---
+
+## 📊 GitHub Commit İstatistiklerim
+
+![GitHub Commit İstatistikleri](https://github-readme-activity-graph.cyclic.app/graph?username=berkwyweb&theme=github)
+
+---
+
+## 🖥️ Dil Dağılımı
+
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkwyweb&layout=compact&theme=dark)
+
+---
+
+## 🚀 Son 1 Yıldaki Katkılarım
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=berkwyweb&theme=react-dark)
+
+---
+
+## 👀 Profil Görüntülenme
+
+![Profile Views](https://komarev.com/ghpvc/?username=berkwyweb&label=Profile%20Views)
+
+---
+
+## 📈 GitHub Aktivite Streaks
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=radical)
+
+---
