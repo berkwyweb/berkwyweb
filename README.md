@@ -1,3 +1,5 @@
+![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
+
 # Merhaba! 👋 Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb)
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
