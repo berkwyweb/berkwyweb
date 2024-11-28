@@ -4,7 +4,6 @@
 
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
 
-[test[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]test]
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
 ## 👥 GitHub Takip Et
@@ -147,3 +146,13 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ## 🎯 GitHub Commit İstatistikleri (Verimlilik)
 
 ![Commit Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
+
+
+
+
+[![Check out berkwyweb's profile on stardev.io](https://stardev.io/developers/berkwyweb/badge/languages/country.svg)](https://stardev.io/developers/berkwyweb)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=0zoz8vodz2wkfd4wo25xcuijr">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=0zoz8vodz2wkfd4wo25xcuijr" alt="Data Card for Spotify">
+</a>
+![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/terminal.gif)
+
