@@ -55,7 +55,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ---
 
-## 🏆 GitHub Contribution Streak
+## 🏆 GitHub  Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkwyweb&theme=dark&hide_border=true)
 
