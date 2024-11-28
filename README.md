@@ -14,14 +14,14 @@ https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 
 - **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.  
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="30"/>
+[![Bildiklerim](https://skillicons.dev/icons?i=php)](https://instagram.com/34brkay)
 
 - **HTML5**: Web tasarımı ve frontend geliştirme için temel yapı taşlarından biri, modern web sayfalarının temelini oluşturur.  
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30"/>
+[![Bildiklerim](https://skillicons.dev/icons?i=html)](https://instagram.com/34brkay)
 
 - **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.  
 [![Java](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,dotnet,github,wasm)](https://skillicons.dev)
+[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,dotnet,github,)](https://instagram.com/34brkay)
 ---
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
