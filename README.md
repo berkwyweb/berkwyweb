@@ -1,4 +1,5 @@
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
+![Banner](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
 
 # Merhaba! 👋 Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb)
 
