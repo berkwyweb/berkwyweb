@@ -34,7 +34,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ---
 [![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://github.com/berkwyweb)
 ---
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
 
 ## 🌐 İletişim ve Bağlantılar
 
