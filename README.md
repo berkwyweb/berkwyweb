@@ -48,8 +48,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
-
+[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0zoz8vodz2wkfd4wo25xcuijr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]
 
 ---
 
