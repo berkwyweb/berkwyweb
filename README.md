@@ -20,8 +20,8 @@ https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30"/>
 
 - **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.  
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/>
-
+[![Java](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,dotnet,github,wasm)](https://skillicons.dev)
 ---
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
