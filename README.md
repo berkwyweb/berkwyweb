@@ -1,6 +1,5 @@
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/CDXIV1zyQt-tdaHYIbxIiQ.png)
-![Banner](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
 
 
@@ -139,7 +138,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ![Commit Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
 
 
-
+![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/CDXIV1zyQt-tdaHYIbxIiQ.png)
 
 [![Check out berkwyweb's profile on stardev.io](https://stardev.io/developers/berkwyweb/badge/languages/country.svg)](https://stardev.io/developers/berkwyweb)
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=0zoz8vodz2wkfd4wo25xcuijr">
