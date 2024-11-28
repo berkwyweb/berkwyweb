@@ -145,8 +145,4 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 </a>
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/terminal.gif)
 
-<div align="center">
-<h2>Discord</h2>
- <a href="https://discord.com/users/1038114717002125434">
- <img src="https://lanyard-profile-readme.vercel.app/api/1038114717002125434"></a>
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1038114717002125434?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1038114717002125434)
