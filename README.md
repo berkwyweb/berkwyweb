@@ -1,6 +1,5 @@
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
 ![Banner](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
-[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://github.com/berkwyweb)
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
 
 
@@ -32,6 +31,8 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 - **Veritabanı yönetimi** ve **Backend** geliştirme.
 - **Responsive web design** ve **UX/UI** geliştirme.
 
+---
+[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://github.com/berkwyweb)
 ---
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
 
