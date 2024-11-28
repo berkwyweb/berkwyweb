@@ -21,7 +21,6 @@ https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7
 
 - **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.  
 [![Java](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,dotnet,github,)](https://instagram.com/34brkay)
 ---
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
@@ -29,6 +28,7 @@ https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7
 - Web geliştirme ve dinamik uygulama yapıları.
 - **Veritabanı yönetimi** ve **Backend** geliştirme.
 - **Responsive web design** ve **UX/UI** geliştirme.
+[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
 
 ---
 
@@ -36,7 +36,8 @@ https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7
 
 - **LinkedIn**: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Berkay_Merkepcioğlu-blue?style=social&logo=linkedin)  
 - **GitHub**: ![GitHub](https://img.shields.io/badge/GitHub-berkwyweb-lightgrey?style=social&logo=github)
-- **Instagram**: ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
+- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
+
 
 ---
 
