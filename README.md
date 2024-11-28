@@ -2,10 +2,24 @@
 ![Banner](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
                         [![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
 
-# Merhaba!     ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Ben ** Berkay Merkepcioğlu** (berkwyweb)
+#      ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  (berkwyweb)
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
 ## 👥 GitHub Takip Et
+<style>
+
+img:hover {
+
+transform: scale(1.1);
+
+transition: transform 0.3s;
+
+}
+
+</style>
+
+<img src="https://avatars.githubusercontent.com/u/berkwyweb" alt="Profile Picture" width="150px">
+![Son dinlediklerim](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
 
 ![GitHub Follow](https://img.shields.io/github/followers/berkwyweb?style=social)
 <a href="https://www.github.com/berkwyweb" target="_blank" rel="noreferrer"><img
