@@ -55,17 +55,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ---
 
-## 🏅 GitHub Commit İstatistikleri
 
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/berkwyweb?style=flat-square)
-
----
-
-## 📊 Proje Sayısı
-
-![Repos](https://img.shields.io/github/repos/berkwyweb?style=flat-square&logo=github)
-
----
 
 ## 📅 Son Commit Tarihi
 
@@ -91,10 +81,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ![Forks](https://img.shields.io/github/forks/berkwyweb/berkwyweb?style=flat-square&logo=github)
 
-## 🔗 GitHub Gists Sayısı
-
-![Gists](https://img.shields.io/github/gists/berkwyweb?style=flat-square)
-
 ---
 
 ## 🌍 GitHub Pages Trafiği
@@ -119,11 +105,6 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ---
 
-## 📅 GitHub Takip Edilen Sayısı
-
-![Following](https://img.shields.io/github/following/berkwyweb?label=Following&style=social)
-
----
 
 ## 📍 GitHub Repo Etiketleri
 
@@ -137,11 +118,8 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ---
 
-## 📈 GitHub Commit Sayısı
 
-![Total Commits](https://img.shields.io/github/commit-count/berkwyweb?style=flat-square)
 
----
 
 ## 🎯 GitHub Commit İstatistikleri (Verimlilik)
 
