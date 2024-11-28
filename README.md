@@ -63,9 +63,9 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 <a href="https://github.com/berkwyweb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkwyweb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <b>Top Repositories</b>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=100&size=14&duration=10000&pause=2000&color=6CF71B&background=000000&width=450&lines=berkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwy)](https://git.io/typing-svg)
 
 <div width="100%" align="center"><a href="https://github.com/berkwyweb/giris-basarili" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berkwyweb&repo=giris-basarili&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/berkwyweb/snake-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=berkwyweb&repo=snake-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=100&size=14&duration=10000&pause=2000&color=6CF71B&background=000000&width=450&lines=berkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwy)](https://git.io/typing-svg)
 
 ---
 ## ⭐ Toplam Yıldız Sayısı
