@@ -1,11 +1,10 @@
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=100&size=14&duration=10000&pause=2000&color=6CF71B&background=000000&width=450&lines=berkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwyberkwy)](https://git.io/typing-svg)
 ![Banner](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
+[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
 
-                        [![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
-
-#      ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  (berkwyweb)
----                         ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0zoz8vodz2wkfd4wo25xcuijr&unique={true|1|on|yes})
+#     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
 
 
 
