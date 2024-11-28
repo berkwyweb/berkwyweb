@@ -1,5 +1,6 @@
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
 ![Banner](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
+[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
 
 # Merhaba! 👋 Ben **Mehmet Berkay Merkepcioğlu** (berkwyweb)
 
@@ -28,15 +29,20 @@ https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7
 - Web geliştirme ve dinamik uygulama yapıları.
 - **Veritabanı yönetimi** ve **Backend** geliştirme.
 - **Responsive web design** ve **UX/UI** geliştirme.
-[![Bildiklerim](https://skillicons.dev/icons?i=js,html,css,discord,php,github,)](https://instagram.com/34brkay)
 
 ---
 
 ## 🌐 İletişim ve Bağlantılar
 
-- **LinkedIn**: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Berkay_Merkepcioğlu-blue?style=social&logo=linkedin)  
+- **LinkedIn**: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Berkay_Merkepcioğlu-blue?style=social&logo=linkedin)
+- - -  [![Github](https://skillicons.dev/icons?i=LinkedIn)](https://github.com/berkwyweb/)
+
 - **GitHub**: ![GitHub](https://img.shields.io/badge/GitHub-berkwyweb-lightgrey?style=social&logo=github)
-- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
+- -  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/berkwyweb/)
+
+-- **Instagram**: ![Instagram](https://img.shields.io/badge/Instagram-@34brkay-blue?style=social&logo=instagram)
+-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/34brkay)
+- 
 
 
 ---
