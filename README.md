@@ -1,5 +1,5 @@
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
-![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/CDXIV1zyQt-tdaHYIbxIiQ.png)
+![Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
 
 
