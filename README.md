@@ -15,14 +15,14 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 
-- **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.  
-[![Bildiklerim](https://skillicons.dev/icons?i=php)](https://instagram.com/34brkay)
+- **PHP**: Back-end geliştirme için kullanılan popüler bir sunucu tarafı programlama dili.  [![Bildiklerim](https://skillicons.dev/icons?i=php)](https://instagram.com/34brkay)
 
-- **HTML5**: Web tasarımı ve frontend geliştirme için temel yapı taşlarından biri, modern web sayfalarının temelini oluşturur.  
-[![Bildiklerim](https://skillicons.dev/icons?i=html)](https://instagram.com/34brkay)
 
-- **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.  
-[![Java](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- **HTML5**: Web tasarımı ve frontend geliştirme için temel yapı taşlarından biri, modern web sayfalarının temelini oluşturur.  [![Bildiklerim](https://skillicons.dev/icons?i=html)](https://instagram.com/34brkay)
+
+
+- **JavaScript**: Dinamik web sayfaları ve etkileşimli uygulamalar geliştirmek için kullanılan, web'in vazgeçilmez programlama dili.  [![Java](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
 ---
 
 ## 🎯 Şu Anda Üzerinde Çalıştığım Alanlar
