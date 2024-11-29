@@ -12,6 +12,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
   /></a><a href="https://www.twitch.tv/berkwy01" target="_blank" rel="noreferrer"><img
     src="https://img.shields.io/twitch/status/berkwy01?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ---
+![](https://komarev.com/ghpvc/?username=berkwyweb&color=grey)
 
 ## 📚 Çalıştığım Teknolojiler ve Araçlar
 
