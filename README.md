@@ -2,7 +2,7 @@
 ![Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
 
-100
+
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
 ## 👥 GitHub Takip Et
 ![GitHub Follow](https://img.shields.io/github/followers/berkwyweb?style=social)
