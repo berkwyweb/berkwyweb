@@ -2,6 +2,7 @@
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
 ![Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
+[![Check out berkwyweb's profile on stardev.io](https://stardev.io/developers/berkwyweb/badge/languages/country.svg)](https://stardev.io/developers/berkwyweb)
 
 
 Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam ediyorum. Şu an **Ubit**'de staj yaparak pratik deneyimler kazanıyorum ve aynı zamanda **PHP**, **HTML** ve **JavaScript** teknolojileri üzerinde çalışarak kendimi geliştiriyorum. Ayrıca her türlü Discord bot komutları için yardım edebilirim. İletişim için "Hakkımda" kısmından bana ulaşabilirsiniz.
@@ -53,7 +54,7 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ## 📈 GitHub İstatistiklerim
 
-![GitHub Stats]( <a href="http://www.github.com/berkwyweb"><img src="https://github-readme-stats.vercel.app/api?username=berkwyweb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="berkwyweb's GitHub stats" /></a>
+ <a href="http://www.github.com/berkwyweb"><img src="https://github-readme-stats.vercel.app/api?username=berkwyweb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="berkwyweb's GitHub stats" /></a>
 
 
 ---
@@ -129,16 +130,8 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ---
 
 
-
-
-## 🎯 GitHub Commit İstatistikleri (Verimlilik)
-
-![Commit Stats](https://github-readme-stats.vercel.app/api?username=berkwyweb&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
-
-
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/CDXIV1zyQt-tdaHYIbxIiQ.png)
 
-[![Check out berkwyweb's profile on stardev.io](https://stardev.io/developers/berkwyweb/badge/languages/country.svg)](https://stardev.io/developers/berkwyweb)
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=0zoz8vodz2wkfd4wo25xcuijr">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=0zoz8vodz2wkfd4wo25xcuijr" alt="Data Card for Spotify">
 </a>
