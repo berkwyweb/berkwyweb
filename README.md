@@ -1,3 +1,4 @@
+![Banner](https://camo.githubusercontent.com/7e29336fe553b18f8c44b4f8adbc3119610ad83b75c3a80f6aabfa79781fcdd4/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31313026636f6c6f723d363164616662)
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/image.png)
 ![Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 #     Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  ben Berkay Merkepcioğlu  (berkwyweb)
@@ -147,3 +148,5 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/terminal.gif)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1038114717002125434?idleMessage=Her%20t%C3%BCrl%C3%BC%20discord%20komutlar%C4%B1%20i%C3%A7in%20yazabilirsiniz!&theme=dark)](https://discord.com/users/1038114717002125434)
+![Banner](https://camo.githubusercontent.com/43aff4b8059b3cd2601a438025a3c413fd43963316a34c2fd49a36a8279c739d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d363164616662266865696768743d3131302673656374696f6e3d666f6f746572)
+
