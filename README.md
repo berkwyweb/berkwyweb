@@ -95,5 +95,5 @@ Ben, **lise 4** öğrencisi olarak yazılım dünyasında yolculuğuma devam edi
 
 ![Banner](https://github.com/berkwyweb/berkwyweb/blob/main/terminal.gif)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1038114717002125434?idleMessage=Her%20t%C3%BCrl%C3%BC%20discord%20komutlar%C4%B1%20i%C3%A7in%20yazabilirsiniz!&theme=dark)](https://discord.com/users/1038114717002125434)
+[![Discord Presence](https://api.lanyard.rest/v1/users/1038114717002125434)](https://discord.com/users/1038114717002125434)
 
